@@ -33,7 +33,7 @@ def get_token():
         "SignatureMethod": "HMAC-SHA1",
         "SignatureVersion": "1.0",
         "Timestamp": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-        "Version": "2019-09-24"
+        "Version": "2020-03-05"
     }
 
     # 按字典序排序并构造规范查询字符串
