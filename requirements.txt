@@ -1,5 +1,4 @@
 Flask==3.0.3
 aliyun-python-sdk-core==2.13.36
-aliyun-python-sdk-nls==2.0.0
 requests==2.31.0
 gunicorn==21.2.0
